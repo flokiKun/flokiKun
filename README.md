@@ -12,7 +12,6 @@ Hi, i'm @flokiKun or IRL Viktor Starostin. Python-programmer and half-student (L
 I speak English at B2 level | [Link](https://www.efset.org/cert/5nFnYC) |
 
 ## In the plans:
-- Learn JS / TS and Django ('cause it's interesting)
 - C / C ++ (in conjunction with Python)
 - Become a real pro in Python
 
@@ -30,6 +29,5 @@ I speak English at B2 level | [Link](https://www.efset.org/cert/5nFnYC) |
 Владею английским языком на уровне B2 | [Ссылка](https://www.efset.org/cert/5nFnYC) |
 
 ## В планах:
-- Изучить JS/TS и Django (Заинтересовался Вебом в последнее время)
 - C/C++ (Писать оптимизированные библиотеки для Питона)
 - Стать настоящим профи в Python
