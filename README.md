@@ -1,1 +1,6 @@
-Just simple Russian man
+### Hard-skills
+- Python
+  - fastapi
+  - Django
+- PostgreSQL
+- Docker
